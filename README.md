@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Alex
+# Hi there 👋 I'm Alex
 
-Currently studying Software Engineering at NHL Stenden University of Applied Sciences in Emmen, The Netherlands.
+I'm currently studying Software Engineering at NHL Stenden University of Applied Sciences in Emmen, The Netherlands.
 
 ## 🤔 About me
 
@@ -34,6 +34,10 @@ Currently studying Software Engineering at NHL Stenden University of Applied Sci
 LinkedIn: [Alexandru Gumaniuc](https://www.linkedin.com/in/alexandru-gumaniuc-49267711a/)
 
 Email: gumaniuc.alexandru@gmail.com
+
+## 🔥 My Stats :
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geniools)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Geniools/Geniools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
