@@ -27,11 +27,13 @@ Currently studying Software Engineering at NHL Stenden University of Applied Sci
   - Technologies used: [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,django)](https://skillicons.dev)
 3. [Self Driving Challenge](#) *(link to be added soon)*
   - Description: Project developed as part of the [Self Driving Challenge](https://www.selfdrivingchallenge.nl/) 2024
+  - Technologies used: [![My Skills](https://skillicons.dev/icons?i=gitlab,linux,py,ros)](https://skillicons.dev)
 
 ## 📫 How to reach me
 
 LinkedIn: [Alexandru Gumaniuc](https://www.linkedin.com/in/alexandru-gumaniuc-49267711a/)
-Email:gumaniuc.alexandru@gmail.com
+
+Email: gumaniuc.alexandru@gmail.com
 
 <!--
 **Geniools/Geniools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
