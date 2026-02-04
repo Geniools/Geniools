@@ -6,7 +6,9 @@ The other half I am a junior DevOps Engineer at Swisscom DevOps Center in Rotter
 ## 🤔 About me
 
 🎓 Currently pursuing a master degree in Computer Science at Universiteit van Amsterdam and Vrije Universiteit Amsterdam.
+
 💻 Mostly programming in Python, JavaScript, C# and Java.
+
 🌱 Docker, Kubernetes and Argo tools are also in my DevOps preferences :)
 
 ## Skills
