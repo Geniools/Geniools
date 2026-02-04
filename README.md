@@ -1,12 +1,13 @@
 # Hi there 👋 I'm Alex
 
-I'm studying Software Engineering at NHL Stenden University of Applied Sciences in Emmen, The Netherlands.
+Half of my time I spend as a Computer Science Master Student at UvA and VU.
+The other half I am a junior DevOps Engineer at Swisscom DevOps Center in Rotterdam, The Netherlands.
 
 ## 🤔 About me
 
-🎓 Currently pursuing a degree in Software Engineering at NHL Stenden
-💻 Mostly programming in Python, JavaScript, C# and Java
-🌱 Constantly learning and exploring new technologies
+🎓 Currently pursuing a master degree in Computer Science at Universiteit van Amsterdam and Vrije Universiteit Amsterdam.
+💻 Mostly programming in Python, JavaScript, C# and Java.
+🌱 Docker, Kubernetes and Argo tools are also in my DevOps preferences :)
 
 ## Skills
 
